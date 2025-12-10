@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Configuración local
+local.properties
+
+# Archivos de caché
+.DS_Store
+*.log
+*.tmp
+
+# Archivos generados
+captures/
+.externalNativeBuild/
+.cxx/
+generated/
+
+# Configuración de firma
+*.jks
+*.keystore
+signing.properties
+
+# Android Profiling
+*.hprof
+
+# Otros
+.gradle/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088045046068",
+    "project_id": "marsan-almacenado",
+    "storage_bucket": "marsan-almacenado.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088045046068:android:fe64c0f5bf89d7080e2d61",
+        "android_client_info": {
+          "package_name": "marsan_almanecado.e8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghw8iNdDKoxiUJDCJAMQQqHywiEmO4Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
